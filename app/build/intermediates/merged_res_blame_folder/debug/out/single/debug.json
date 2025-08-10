@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_activity_profile.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_back.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_logout_modern.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_logout_modern.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_avatar_ripple.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/avatar_ripple.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_activity_register.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_activity_movie_detail.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/activity_movie_detail.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_barbie.jpg.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/barbie.jpg"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_back_modern.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_back_modern.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_activity_login.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_lock.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_calendar.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_star_half.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_star_half.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_item_my_movie.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/item_my_movie.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_back_button_background.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/back_button_background.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_profile.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_cinema_background.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/cinema_background.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_play.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_movie.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_movie.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_guardians_vol3.jpg.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/guardians_vol3.jpg"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_star_empty.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_star_empty.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_star_filled.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_star_filled.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_calendar_dark.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_calendar_dark.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_logout.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_star.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_card_background.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/card_background.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_spider_man.jpg.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/spider_man.jpg"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_avatar_modern.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_avatar_modern.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_star_rating_view.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/star_rating_view.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_my_movies.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_my_movies.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_fragment_my_movies.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/fragment_my_movies.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_placeholder_movie.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/placeholder_movie.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_fast_forward.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_fast_forward.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_rewind.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_rewind.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/color_bottom_nav_color.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/menu_bottom_navigation_menu.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_online_indicator.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/online_indicator.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_email.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_play_button_background.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/play_button_background.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_oppenheimer.jpg.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/oppenheimer.jpg"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_avatar_background.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/avatar_background.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_badge_background.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/badge_background.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_gradient_overlay.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/gradient_overlay.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_play_circle.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_play_circle.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_fragment_movie_list.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/fragment_movie_list.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_movie_logo.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_movie_logo.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_search.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_item_category.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/item_category.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_dune_part_two.jpg.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/dune_part_two.jpg"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_gradient_bottom_overlay.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/gradient_bottom_overlay.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_item_movie.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/item_movie.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/menu_main_menu.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_person.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_custom_player_control.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/custom_player_control.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/drawable_ic_pause.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-merged_res-51:/layout_dialog_change_password.xml.flat",
+        "source": "/Users/mansourbah/.gradle/daemon/8.12/com.example.movieapp-main-53:/layout/dialog_change_password.xml"
+    }
+]
